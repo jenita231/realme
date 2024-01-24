@@ -1,2 +1,5 @@
 #!/bin/bash
-echo "Hello Jenita"
+echo "Hello Jenita
+hello shaila
+hello rinolla
+"
